@@ -1,6 +1,6 @@
 Name: kaboom
 Version: 1.1.2
-Release: %mkrel 1
+Release: %mkrel 2
 Summary: The Debian KDE settings migration tool
 License: GPL
 Url: http://pkg-kde.alioth.debian.org/kaboom.html
