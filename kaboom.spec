@@ -38,3 +38,14 @@ rm -rf %buildroot
 %clean
 rm -rf %buildroot
 
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 1.1.2-2mdv2011.0
++ Revision: 619874
+- the mass rebuild of 2010.0 packages
+
+* Thu Oct 01 2009 Helio Chissini de Castro <helio@mandriva.com> 1.1.2-1mdv2010.0
++ Revision: 452272
+- imported package kaboom
+
