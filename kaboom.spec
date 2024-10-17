@@ -3,7 +3,7 @@ Version: 1.1.2
 Release: 3
 Summary: The Debian KDE settings migration tool
 License: GPL
-Url: http://pkg-kde.alioth.debian.org/kaboom.html
+Url: https://pkg-kde.alioth.debian.org/kaboom.html
 Group: Graphical desktop/KDE
 Source0: http://ftp.de.debian.org/debian/pool/main/k/kaboom/%{name}_%{version}.tar.gz 
 Source1: CMakeLists.txt
